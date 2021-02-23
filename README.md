@@ -6,7 +6,7 @@
 
 ## Endpoints
 
-### Get Catalogs
+### Get catalogs
 ``` bash
 GET /api/v1/catalogs?shopId={shopID}
 
