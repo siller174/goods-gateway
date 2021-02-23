@@ -1,0 +1,10 @@
+/bin/*
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.un~
+*.swp
+.idea/
+*.iml
+*.log
+./bin
